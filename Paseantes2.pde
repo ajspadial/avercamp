@@ -37,7 +37,6 @@ void addPeople() {
   if (al.size()<120) {
    al.add(new Paseante());
   lastOne = millis();
-  println(al.size());
   }
   
 }
